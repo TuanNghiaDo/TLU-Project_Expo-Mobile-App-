@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="light_gray">#BDBDBD</color>
+    <color name="active">#2E9364</color>
+    <color name="active_background">#C9EAC6</color>
+    <color name="locked">#C92B2B</color>
+    <color name="locked_background">#EAC6C6</color>
+    <color name="switch_track_green_on">#0abe6a</color>
+    <color name="switch_thumb_white_on">#FFFFFF</color>
+    <color name="switch_track_gray_off">#e6e0e9</color>
+    <color name="switch_thumb_dark_gray_off">#79747e</color>
+    <color name="featured">#FF9800</color>
+    <color name="progress">#3b82f6</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#757575</color>
+    <color name="blue">#043EF2</color>
+    <color name="default_text_color_primary">#DE000000</color> <!-- 87% black -->
+    <color name="button_gray_action_background_color">#FF555555</color> <!-- Darkish Grey -->
+    <color name="button_black_background_color">#FF000000</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="default_avatar_background_color">#FF5722</color>
+    <color name="xoa">#E3E3E3</color>
+    <color name="blue_background">#0070C0</color>
+        <color name="colorPrimaryLight">#BB86FC</color> <!-- Ví dụ màu cho chip active -->
+    <!--    Notification-->
+    <color name="status_pending">#FFA726</color> <!-- Orange -->
+    <color name="status_declined">#F44336</color> <!-- Red -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="status_accepted">#198CE4</color>
+    <color name="text_secondary_read_content">#505050</color> <!-- Màu xám nhạt hơn cho nội dung đã đọc -->
+    <color name="text_secondary_read_title">#2C2C2C</color>   <!-- Màu xám cho tiêu đề đã đọc -->
+    <color name="unread_notification_highlight_background">#0A000000</color> <!-- Màu nền rất nhạt cho thông báo chưa đọc (ví dụ: 5% black) -->
+    <color name="read_notification_background">@android:color/white</color> <!-- Nền trắng cho thông báo đã đọc -->
+    <color name="button_blue_background">#0D8BF0</color>
+    <color name="button_accept_background_blue">#1976D2</color> <!-- Một màu xanh dương đẹp (Blue 700) -->
+    <color name="button_decline_stroke_red">#D32F2F</color>
+</resources>
